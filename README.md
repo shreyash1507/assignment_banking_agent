@@ -4,7 +4,7 @@ A sophisticated multi-agent AI system designed for the banking industry. This pl
 
 ---
 
-## 🚀 Key Features
+## Key Features
 
 - **Multi-Agent Orchestration**: A Hub-and-Spoke model where a central Orchestrator plans and dispatches tasks to domain experts.
 - **Agent Thought Graph**: A real-time, horizontal timeline visualization of the AI's internal reasoning loop.
@@ -14,7 +14,7 @@ A sophisticated multi-agent AI system designed for the banking industry. This pl
 
 ---
 
-## 🏗️ Project Architecture
+## Project Architecture
 
 The platform is organized into four functional layers:
 1. **Presentation**: A high-performance Vanilla JS frontend.
@@ -26,7 +26,7 @@ For a detailed breakdown, see [Documentation/architecture_flow.md](Documentation
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```text
 .
@@ -45,7 +45,7 @@ For a detailed breakdown, see [Documentation/architecture_flow.md](Documentation
 
 ---
 
-## 🛠️ Getting Started
+## Getting Started
 
 ### Prerequisites
 - Python 3.10+
@@ -71,13 +71,13 @@ For a detailed breakdown, see [Documentation/architecture_flow.md](Documentation
 
 ---
 
-## ☁️ Cloud Deployment (AWS)
+## Cloud Deployment (AWS)
 
 The platform is optimized for **AWS Bedrock**. For detailed instructions on deploying via AWS Lambda, S3, and Bedrock Agents, refer to the [Documentation/aws_architecture_flow.md](Documentation/aws_architecture_flow.md).
 
 ---
 
-## 📜 Documentation
+## Documentation
 
 - [Project Implementation Guide](Documentation/project_implementation_guide.md)
 - [System Architecture & Flow](Documentation/architecture_flow.md)
